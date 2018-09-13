@@ -14,3 +14,5 @@ print(number % 3)
 
 number = "3"
 print(number.isnumeric())
+
+print(0.1 + 0.1 + 0.1 != 0.3)
