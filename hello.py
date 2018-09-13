@@ -15,4 +15,13 @@ sign = hello + " " + world + " " + ex
 print(sign)
 
 name = input("Jak masz na imię? ")
+name = name.capitalize()
+
 print(hello + " " + name + ex)
+
+name = name.upper()
+print(hello + " " + name + ex)
+
+name = input("Jak masz na imię? ").upper()
+print(hello + " " + name + ex)
+
