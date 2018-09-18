@@ -45,8 +45,12 @@
 # print(True or False)
 # print(5 and 6)
 
-birthyear = "1990"
-birthyear = int(birthyear)
-print(birthyear)
-birthyear = str(birthyear)
+# birthyear = "1990"
+# birthyear = int(birthyear)
+# print(birthyear)
+# birthyear = str(birthyear)
+
+import this
+
+
 
