@@ -27,27 +27,28 @@
 #     print("Temperatura jest idealna")
 
 # PODZIELNOŚĆ
-number = input("Podaj liczbę ")
+# number = input("Podaj liczbę ")
+#
+# if number.isnumeric():
+#     number = int(number)
+# else:
+#     print("Wpisałeś błędną wartość")
+#     exit()
+#
+# if number % 3 == 0:
+#     print("Liczba jest podzielna przez 3")
+# else:
+#     print("Liczba nie jest podzielna przez 3")
+#
+# if number % 5 == 0:
+#     print("Liczba jest podzielna przez 5")
+# else:
+#     print("Liczba nie jest podzielna przez 5")
+#
+# if number % 7 == 0:
+#     print("Liczba jest podzielna przez 7")
+# else:
+#     print("Liczba nie jest podzielna przez 7")
 
-if number.isnumeric():
-    number = int(number)
-else:
-    print("Wpisałeś błędną wartość")
-    exit()
-
-if number % 3 == 0:
-    print("Liczba jest podzielna przez 3")
-else:
-    print("Liczba nie jest podzielna przez 3")
-
-if number % 5 == 0:
-    print("Liczba jest podzielna przez 5")
-else:
-    print("Liczba nie jest podzielna przez 5")
-
-if number % 7 == 0:
-    print("Liczba jest podzielna przez 7")
-else:
-    print("Liczba nie jest podzielna przez 7")
 
 
